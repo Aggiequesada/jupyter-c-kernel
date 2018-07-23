@@ -11,6 +11,7 @@
  to login with a token:
     http://localhost:8888/?token=66750c80bd0788f6ba15760aadz53beb9a9fb4cf8ac15ce8
  ```
+ * 'python install-c-kernel
 
 ## Manual installation
 
